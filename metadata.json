@@ -1,0 +1,6 @@
+{
+  "name": "MusicPlay",
+  "description": "Lightweight offline Android music player built with Kotlin, Jetpack Compose, Media3 ExoPlayer, and DataStore Preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
